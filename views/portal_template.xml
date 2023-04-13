@@ -128,12 +128,12 @@
     <!-- Começo do Dashboard -->
     <template id="wb_equipamento_dashboard_view_portal">
         <link rel="stylesheet"
-            href="/NREspecialista/static/src/css/style_dashboard_portal.css" />
+            href="/NR13/static/src/css/style_dashboard_portal.css" />
         <link rel="stylesheet"
-            href="/NREspecialista/static/src/css/sb-admin-2.min.css" />
+            href="/NR13/static/src/css/sb-admin-2.min.css" />
         <!-- Custom fonts for this template-->
         <link
-            href="/NREspecialista/static/src/css/all.min.css"
+            href="/NR13/static/src/css/all.min.css"
             rel="stylesheet"
             type="text/css"
         />
@@ -168,7 +168,7 @@
                                                 <!-- <i class="fa fa-address-book fa-2x
                                             text-gray-300"></i> -->
                                                 <img
-                                                    src="/NREspecialista/static/description/vaso_pressao.icon.png"
+                                                    src="/NR13/static/description/vaso_pressao.icon.png"
                                                     alt="avatar"
                                                     class="text-gray-300"
                                                     style="width: 45%; float: right" />
@@ -195,7 +195,7 @@
                                             </div>
                                             <div class="col-7">
                                                 <img
-                                                    src="/NREspecialista/static/description/caldeira.png"
+                                                    src="/NR13/static/description/caldeira.png"
                                                     alt="avatar"
                                                     class="text-gray-300"
                                                     style="width: 45%; float: right;" />
@@ -222,7 +222,7 @@
                                             </div>
                                             <div class="col-7">
                                                 <img
-                                                    src="/NREspecialista/static/description/tubulacao.jpg"
+                                                    src="/NR13/static/description/tubulacao.jpg"
                                                     alt="avatar"
                                                     class="text-gray-300"
                                                     style="width: 45%; float: right" />
@@ -249,7 +249,7 @@
                                             </div>
                                             <div class="col-7">
                                                 <img
-                                                    src="/NREspecialista/static/description/tanque.png"
+                                                    src="/NR13/static/description/tanque.png"
                                                     alt="avatar"
                                                     class="text-gray-300"
                                                     style="width: 45%; float: right" />

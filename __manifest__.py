@@ -47,7 +47,7 @@
     'auto_install': False,
     'assets':{
         'web.assets_backend':[
-            'NREspecialista/static/src/css/style_dashboard_portal.css'
+            'NR13/static/src/css/style_dashboard_portal.css'
         ],
     },
     'license': 'GPL-3',
